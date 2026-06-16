@@ -97,7 +97,7 @@ Ashish ❤️`;
             height: "220px",
             background:
   "linear-gradient(135deg, #d9b37a, #c89a5c, #e2c18f)",
-  border: "2px solid rgba(90,50,20,.25)",j
+  border: "2px solid rgba(90,50,20,.25)",
             borderRadius: "10px",
             cursor: "pointer",
             boxShadow: "0 20px 40px rgba(0,0,0,0.5)",
